@@ -1,4 +1,4 @@
-# currency-exchange-mvc-gui-app
+
 ## Currency Exchange MVC GUI App
 
 This is a Java application that allows users to perform currency exchange calculations using the Model-View-Controller (MVC) architectural pattern.
